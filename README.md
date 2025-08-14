@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Header](https://github.com/username/username/blob/main/assets/banner.png)
-
 # 👋 Hi, I'm David Vargas
 
 **`Digital Product Owner | Software Quality Lead | Electronic Engineer`**
