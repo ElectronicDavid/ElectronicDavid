@@ -27,13 +27,6 @@ I specialize in aligning business goals with technical execution, ensuring quali
 ![ISTQB](https://img.shields.io/badge/ISTQB%20Certified-007396?style=for-the-badge&logo=googletest&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%20Practitioner-FF6600?style=for-the-badge&logo=trello&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
 
 ## 🌱 Currently Learning
 - Advanced Test Automation
@@ -44,7 +37,6 @@ I specialize in aligning business goals with technical execution, ensuring quali
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vargas-971409a2/)
-[![Email](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
 ---
 
