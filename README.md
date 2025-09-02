@@ -1,40 +1,54 @@
-# 👋 Hi, I'm David Vargas
+# 👋 Hi, I'm David Alejandro Vargas Quintero  
 
-**`Digital Product Owner | Software Quality Lead | Electronic Engineer`**
+🚀 **Electronic Engineer | Digital Product Owner | QA Lead | Postgraduate Student in IT Project Management**  
 
-Currently working at **Ecopetrol**, leading the delivery of high-quality digital solutions through **Agile** practices and **Azure DevOps**.  
-I specialize in aligning business goals with technical execution, ensuring quality and efficiency across cross-functional teams.
+I am an **Electronic Engineer** from Pontificia Universidad Javeriana, currently working at **Ecopetrol** as a **Digital Product Owner & Quality Leader**.  
+My role focuses on ensuring digital value delivery through agile methods, quality assurance, and product management mostly in **Azure DevOps**.  
 
----
-
-## 🛠 Tech & Tools
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%20%7C%20Scrum-FF6600?style=for-the-badge&logo=jira&logoColor=white)
+Passionate about **energy transition** ⚡ and **digital transformation** 💻, with experience leading testing teams, implementing digital solutions, and developing software.  
 
 ---
 
-## 📜 Certifications
+## 🛠️ Skills & Tools  
 
-![ISTQB](https://img.shields.io/badge/ISTQB%20Certified-007396?style=for-the-badge&logo=googletest&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%20Practitioner-FF6600?style=for-the-badge&logo=trello&logoColor=white)
-
-
-## 🌱 Currently Learning
-- Advanced Test Automation
-- Data Analytics for Business
-- Energy Transition Digital Solutions
+- **Programming & Data**: SQL (Oracle), Python, JavaScript, C++  
+- **Testing & QA**: Tosca Commander, Manual & Automated Testing, ISTQB Certified  
+- **Data & BI**: Power BI, ETL (IBM Infosphere DataStage)  
+- **Project Management**: Agile, Azure DevOps, Test Plans  
+- **Soft Skills**: Leadership, adaptability, fast learner, proactive team player  
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vargas-971409a2/)
+## 🎓 Education  
+
+- 🎓 **Electronic Engineer** – Pontificia Universidad Javeriana  
+- 📘 **Specialization in IT Project Management** – Pontificia Universidad Javeriana  
+- 📊 **Diploma in Power BI & Data Science with Python** – Universitad de Cataluña (Bogotá)  
+- 💡 **Automated Testing in JavaScript** – Epam Campus  
 
 ---
 
-*"Building bridges between business and technology to deliver impactful digital products."*
+## 📜 Certifications  
+
+- ✅ ISTQB Foundation & Advanced Test Manager  
+- ✅ Tricentis Tosca Certifications (AS1 & AS2)  
+- ✅ IELTS B2 – English Proficiency  
+- 🈺 Japanese N5 (Conversational level)  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced test automation with JavaScript  
+- Data-driven decision making with Power BI  
+- Renewable energy and digital solutions for energy transition
+
+---
+
+## 📫 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-vargas-971409a2/)  
+- 🌍 Based in Bogotá, Colombia  
+
+---
+✨ _"Passionate about technology, quality, and building digital solutions that matter."_  
